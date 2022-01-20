@@ -52,7 +52,7 @@ $ dynaconf init -f toml
 🙈 the .secrets.* is also included in `.gitignore`
   beware to not push your secrets to a public repo.
 
-🎉 Dynaconf is configured! read more on https://dynaconf.com
+🎉 Dynaconf is configured! read more on [https://dynaconf.com](https://dynaconf.com)
 ```
 
 > **TIP:** You can select `toml|yaml|json|ini|py` on `dynaconf init -f <fileformat>`  **toml** is the default and also the most recommended format for configuration.
